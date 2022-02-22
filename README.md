@@ -8,3 +8,4 @@ V-Rout also features,
 	--> Various filters, so that you can have beautiful pictures over the friends gathering.
 	--> You could express your emotions with the iconic emojis over there.
 	--> High quality video resolution vision.
+	--> Better virtual Environment with a secured private room.
