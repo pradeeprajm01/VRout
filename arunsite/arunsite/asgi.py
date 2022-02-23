@@ -1,5 +1,5 @@
 """
-ASGI config for Arunchat project.
+ASGI config for arunsite project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'Arunchat.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'arunsite.settings')
 
 application = get_asgi_application()
