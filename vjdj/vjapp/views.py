@@ -9,3 +9,5 @@ def room(request, room_name):
     return render(request, 'vjapp/room.html', {
         'room_name': room_name
     })
+
+#changesmaded
