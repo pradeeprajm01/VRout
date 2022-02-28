@@ -76,6 +76,7 @@ ASGI_APPLICATION ='vjdj.asgi.application'
 CHANNEL_LAYERS={
     "default": {
         "BACKEND": "channels.layers.InMemoryChannelLayer",
+
     }
 }
 # Database
