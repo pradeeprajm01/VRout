@@ -86,8 +86,7 @@ body{
 }
 
 
-/* ------------------  Streams Page ------------------ */
-
+/* ----------------- Room Styling ------------------*/
 #room-name-wrapper{
     text-align: center;
     font-size: 18px;
@@ -101,13 +100,9 @@ body{
     margin:0 auto;
 }
 
-
-
-
 .video-container{
     flex-basis: 500px;
     flex-grow: 1;
-
     max-height: 100%;
     min-height: 350px;
     border: 1px solid rgb(75, 93, 172);
@@ -147,19 +142,15 @@ body{
 }
 
 
-/* ------------------  Streams Page | Controls ------------------ */
-
+/* ----------------- Room Styling | Controls ------------------*/
 
 #controls-wrapper{
     display: flex;
     width: 100%;
     justify-content: center;
     column-gap: 1em;
-    padding: 5px 20px;
     position: fixed;
-    bottom:20px;
-
-
+    bottom: 20px;
 }
 
 .control-icon{
@@ -167,9 +158,10 @@ body{
     width: 20px;
     box-shadow: var(--shaddow);
     background-color: #fff;
+    cursor: pointer;
     padding: 10px;
     border-radius: 5px;
-    cursor: pointer;
+
 }
 
 #leave-btn{
