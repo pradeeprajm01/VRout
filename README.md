@@ -2,7 +2,7 @@
 
 Join Now : https://vrout.pythonanywhere.com/
 
-VRout is the Video-conferencing application, which provides you the live interaction with your friends and colleagues. It is also a chat site, where all could connected to messages. VRout is an easy sharing of information with time effiency. VRout permits to access various people interactions with no noise. Easily join a chatroom/meeting or start your own chatroom/meeting instantly with the capable devices.connect us.
+VRout is the Video-conferencing application, which provides you the live interaction with your friends and colleagues. It is also a chat site, where all could connected to messages. VRout is an easy sharing of information with time effiency. VRout permits to access various people interactions with no noise. Easily join a chatroom/meeting or start your own chatroom/meeting instantly with the capable devices.connect us!
 
 VRout features includes,
 
